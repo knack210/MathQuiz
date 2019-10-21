@@ -1,0 +1,9 @@
+C:\Users\ni371318\Documents\GitHub\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe.config
+C:\Users\ni371318\Documents\GitHub\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe
+C:\Users\ni371318\Documents\GitHub\MathQuiz\MathQuiz\bin\Debug\MathQuiz.pdb
+C:\Users\ni371318\Documents\GitHub\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+C:\Users\ni371318\Documents\GitHub\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+C:\Users\ni371318\Documents\GitHub\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+C:\Users\ni371318\Documents\GitHub\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\ni371318\Documents\GitHub\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Users\ni371318\Documents\GitHub\MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb
