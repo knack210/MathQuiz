@@ -7,3 +7,13 @@ C:\Users\ni371318\Documents\GitHub\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.G
 C:\Users\ni371318\Documents\GitHub\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
 C:\Users\ni371318\Documents\GitHub\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
 C:\Users\ni371318\Documents\GitHub\MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb
+C:\Users\Nick\Documents\GitHub\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe.config
+C:\Users\Nick\Documents\GitHub\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe
+C:\Users\Nick\Documents\GitHub\MathQuiz\MathQuiz\bin\Debug\MathQuiz.pdb
+C:\Users\Nick\Documents\GitHub\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csprojAssemblyReference.cache
+C:\Users\Nick\Documents\GitHub\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+C:\Users\Nick\Documents\GitHub\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+C:\Users\Nick\Documents\GitHub\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+C:\Users\Nick\Documents\GitHub\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\GitHub\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Users\Nick\Documents\GitHub\MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb
